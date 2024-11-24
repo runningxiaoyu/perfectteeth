@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'sourcetree 我是第一版uniapp'
+				title: 'sourcetree 我是第二版uniapp'
 			}
 		},
 		onLoad() {
